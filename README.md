@@ -2,7 +2,7 @@
 Projeto criado através da plataforma Frontend Mentor 
 
 ## Deploy da aplicação
-
+https://qr-code-component-wh2d.vercel.app/
 
 ## Tecnologias utilizadas
 + HTML5
